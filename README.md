@@ -1,6 +1,6 @@
 # 🏥 Healthcare Appointment & Follow-up Manager
 
-A full-stack, enterprise-grade medical appointment and follow-up management platform built with **Next.js 15 (App Router)**, **Supabase (PostgreSQL + Auth)**, **Groq AI (Llama 3.3)**, **Resend Email**, and **Google Calendar OAuth 2.0**.
+A full-stack, enterprise-grade medical appointment and follow-up management platform built with **Next.js 15 (App Router)**, **Supabase (PostgreSQL + Auth)**, **Groq AI (qwen/qwen3.6-27b)**, **Resend Email**, and **Google Calendar OAuth 2.0**.
 
 ---
 
@@ -97,7 +97,7 @@ Any competing concurrent transaction attempting to reserve an identical slot is 
 ### 1. Clone & Install Dependencies
 
 ```bash
-git clone https://github.com/parunchxi/hospital-management-system.git
+git clone https://github.com/Devya29/hospital-management-system
 cd hospitalmanagementsystem
 npm install
 ```
