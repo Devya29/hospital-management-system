@@ -68,7 +68,7 @@ export default function RootLayout({
                 <p>
                   Hospital Management System -{' '}
                   <a
-                    href="https://github.com/parunchxi/hospital-management-system"
+                    href="https://github.com/Devya29/hospital-management-system"
                     target="_blank"
                     rel="noreferrer"
                     className="underline hover:text-primary"
