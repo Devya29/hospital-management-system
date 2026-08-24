@@ -97,8 +97,8 @@ Any competing concurrent transaction attempting to reserve an identical slot is 
 ### 1. Clone & Install Dependencies
 
 ```bash
-git clone https://github.com/Devya29/hospital-management-system
-cd hospitalmanagementsystem
+git clone https://github.com/Devya29/hospital-management-system.git
+cd hospital-management-system
 npm install
 ```
 
