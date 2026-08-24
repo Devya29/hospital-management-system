@@ -1,5 +1,7 @@
 # 🏥 Healthcare Appointment & Follow-up Manager
+## 🌐 Live Demo
 
+**Live Application:** https://hospital-management-system-one-sigma.vercel.app/
 A full-stack, enterprise-grade medical appointment and follow-up management platform built with **Next.js 15 (App Router)**, **Supabase (PostgreSQL + Auth)**, **Groq AI (qwen/qwen3.6-27b)**, **Resend Email**, and **Google Calendar OAuth 2.0**.
 
 ---
